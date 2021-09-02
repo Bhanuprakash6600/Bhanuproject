@@ -1,0 +1,14 @@
+<suite name="BhanuSuite">
+<test name="Regressions">
+<classes>
+<class name="com.test.login.Loginuser"></class>
+<class name="com.test.login.TestNdAnnotion"></class>
+</classes>
+</test>
+<test name="smoke">
+<classes>
+<class name="com.test.login.Demo"></class>
+<class name="com.test.login.TestNGDemmo"></class>
+</classes>
+</test>
+</suite>
